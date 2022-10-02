@@ -1,0 +1,34 @@
+
+#Scripting languages convert high-level instructions into machine language. Programming languages help in converting the full program into the machine language
+It an Interpreter based language.
+it performed inside of another program
+it is a peice of code that executes line by line.
+Not a complex.
+
+Examples of scripting languages
+
+JavaScript
+Perl
+Python
+Advantages of Scripting languages:
+
+Simple – Scripting languages are easier to write than programming language.
+
+Fewer Lines of Code (LOC)
+
+
+
+
+#Programmed languages
+ Programming languages help in converting the full program into the machine language
+Programming languages like Java are compiled and not interpreted by another application in the same way.
+It’s a Compiler-based language
+They run independently of a parent program or exterior
+complete execution by a single shot.
+it is independent and takes long time to write a full-pledged code from scratch level. 
+
+Examples programming languages
+
+C
+C++ and
+Java
