@@ -1,0 +1,31 @@
+statically typed languages:
+=>if the type of variable is known at the time of compile is statically typed
+=>in this type of statical typing all kinds of checking can be done by the compiler 
+=>The errors were caught very easily.
+=>once u set a variable to astatically typed language it cannot be changed,it is because the typing is associated with the variaable
+=>it allos to caught many errors if they have at the early stage
+=>the best examples for the staticallly typed languagesare c,c++,java etc-
+=>if in this we give 5+'3' it will throw an errors
+
+Statically typed languages have better performance at run-time
+ both compiled and statically typed languages will have a delay before running for translation and type-checking, respectively.
+ each variable and expression is already known at compile time.
+ type of a variable must be specified
+ in this you are trying to store a string in an integer it wont accept it.
+
+
+
+
+ Dynamically typed languages:
+ A language is dynamically typed if the type is associated with run-time values, and not named variables/fields/etc.
+ programmer can write a little quicker because you do not have to specify types every time .
+ it has no compiler to check like the static type.
+ it allows to provide the type info but it dont require it.
+The best examples for the dynamically typed languages are Ruby,JavaScript,Python etc-
+its type checking is performed at the run time
+variables can receive different values at run time.
+No need to specify the variable.
+for example if we add 5+'3' it will not throw an error it simply executes and show the output as 53
+performance is better low but faster devolopment.
+
+
